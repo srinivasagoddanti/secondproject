@@ -5,7 +5,7 @@ object Demo {
     functionExample()           // Calling function
   }
   def functionExample()  {        // Defining a function
-    println("This is a simple function")
+    println("This is a simple function from line 1")
   }
 
 }
